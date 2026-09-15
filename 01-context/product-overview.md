@@ -1,7 +1,7 @@
 # Product Overview 
 
 ## Nombre del producto 
-Plataforma de Comercio Electrónico PetStore 
+Plataforma de Comercio Electrónico PetStore. 
 
 ## ¿Qué tipo de producto es? 
 Es una plataforma de venta de productos y servicios relacionados con mascotas, mediante el uso de canales digitales. 
@@ -13,9 +13,10 @@ El sistema resuelve problemas relacionados con la venta y gestión de productos 
 Genera valor al aumentar las ventas, facilitar las compras, automatizar la gestión de pedidos y mantener control sobre productos e inventario.
 
 ## Usuarios principales 
-- Clientes
-- Administradores 
-- Encargados (pedidos e inventario)
+- Clientes.
+- Administradores.
+- Encargados de pedidos.
+- Encargados de inventario.
 
 ## Funcionalidades principales 
 - Registro e inicio de sesión de usuario.
